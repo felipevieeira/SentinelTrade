@@ -1,7 +1,12 @@
 # SentinelTrade
-Projeto N1 - Projeto de Software
+## Projeto N1 - Projeto de Software
 
-Felipe Vieira de Castro - 10738719; 
-João Victor Oliveira Ramalho - 10435754;
-Pedro - 67
+### Integrantes
+Felipe Vieira de Castro - 10738719<br>
+João Victor Oliveira Ramalho - 10435754<br>
+Pedro - 10730520<br>
 
+## Visão Geral
+Esse projeto tem objetivo....
+
+## Instruções de execução
