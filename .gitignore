@@ -1,0 +1,12 @@
+# Arquivos de ambiente e segredos
+.env
+
+# Banco de dados local e logs gerados em execução
+*.db
+*.log
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
